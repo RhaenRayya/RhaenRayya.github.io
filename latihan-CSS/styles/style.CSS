@@ -1,0 +1,35 @@
+/* body */
+body{
+    color: black
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* body */
+
+/* debug */
+.bg-brown {
+    background-color: brown;
+}
+.bg-red {
+    background-color: red;
+}
+.bg-maroon {
+    background-color: maroon;
+}
+/* debug */
+
+/* container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;  
+}
+/* container */
